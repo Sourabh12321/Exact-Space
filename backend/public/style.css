@@ -1,0 +1,81 @@
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #007bff;
+    background-color: rgba(248, 254, 85, 0.854);
+}
+
+#main {
+    height: 80vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: stretch; */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#form-div,
+#data {
+    flex: 1;
+    background-color: #ffffff;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    /* padding: 20px 20px 20px 20px; */
+    /* Adjust top padding to push content to the top */
+}
+
+form {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    /* Align content at the top */
+    margin: auto;
+}
+
+#text {
+    width: 100%;
+    padding: 10px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none; /* Prevent resizing of the textarea */
+}
+button {
+    padding: 10px 20px;
+    width: 30%;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#form>div {
+    width: 80%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+#form>div>label {
+    text-align: center;
+    margin-right: 20px;
+    width: 50%;
+}
+
+#form>div>input {
+    width: 50%;
+}
+
