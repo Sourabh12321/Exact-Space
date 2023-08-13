@@ -10,7 +10,7 @@ form.addEventListener("submit", (e) => {
         const parsedData = JSON.parse(inputData);
         console.log("Valid JSON:", parsedData);
         console.log(inputData)
-        fetch('http://localhost:3000/data',{
+        fetch('https://exact-space-bdk2.onrender.com/data',{
             method:'POST',
             headers:{
                 "content-type":"application/json"
