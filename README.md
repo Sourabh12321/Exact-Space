@@ -10,7 +10,7 @@ ExactSpace is a dedicated platform that excels in industrial analytics, deliveri
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [API Endpoints](#api-endpoints)
-- [Features](#Features)
+
 
 
 
