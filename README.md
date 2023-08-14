@@ -1,6 +1,58 @@
 # Exact-Space
 
+## Introduction
+ExactSpace is a dedicated platform that excels in industrial analytics, delivering data-driven solutions tailored to tackle intricate challenges across various industries while concurrently fostering the adoption of sustainable practices.
 ## Deployed link :- https://exact-space-bdk2.onrender.com
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Demo](#project-demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [API Endpoints](#api-endpoints)
+- [Features](#Features)
+
+
+
+
+
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Express, Node.js
+
+## Getting Started
+To run the project on your local machine, follow the steps below:
+
+
+## Project Demo
+
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Sourabh12321/Exact-Space.git
+  
+2. Install Dependencies:
+
+   ```bash
+   npm i 
+  
+3. Run backend server:
+
+   ```bash
+   npm run start
+
+## API Endpoints
+The project exposes the following API endpoints:
+
+1. POST `/data`: To write json data .
+
+## Features
+The project includes the following features:
+- Input JSON information using a textarea.
+- Validate JSON data and send it to a backend API.
+- Present the key-value pairs from the JSON data you submitted on the webpage.
 
 # Home Page
 ![Screenshot 2023-08-14 125918](https://github.com/Sourabh12321/Exact-Space/assets/112754483/067fb84a-079a-4819-8a63-84400939b64e)
