@@ -51,6 +51,8 @@ Demo Link :- https://vimeo.com/854395651?share=copy
    npm run start
 
 ## API Endpoints
+
+
 The project exposes the following API endpoints:
 
 1. POST `/data`: To write json data .
