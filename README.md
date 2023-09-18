@@ -1,7 +1,5 @@
 # Exact-Space
 
-
-
 ## Introduction
 
 
