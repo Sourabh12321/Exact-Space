@@ -9,6 +9,8 @@ ExactSpace is a dedicated platform that excels in industrial analytics, deliveri
 
 
 
+
+
 ## Deployed link :- https://exact-space-bdk2.onrender.com
 
 ## Table of Contents
