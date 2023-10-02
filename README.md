@@ -11,6 +11,9 @@
 
 
 
+
+
+
 ExactSpace is a dedicated platform that excels in industrial analytics, delivering data-driven solutions tailored to tackle intricate challenges across various industries while concurrently fostering the adoption of sustainable practices.
 
 
